@@ -1,1 +1,1 @@
-# TUSS
+print("Hello, World!")
